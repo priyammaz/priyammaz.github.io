@@ -9,8 +9,11 @@ main:
   - title: "Posts"
     url: /year-archive/
   
-  - title: "About Me"
+  - title: "About"
     url: /about-me/
+    
+  - title: "Random page"
+    url: /random/
     
     
 #   - title: "Publications"
