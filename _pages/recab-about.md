@@ -1,6 +1,6 @@
 ---
 permalink: /recab-about/
-title: "Software"
+title: "About"
 author_profile: true
 ---
 
