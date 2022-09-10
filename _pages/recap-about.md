@@ -1,9 +1,7 @@
 ---
 permalink: /recap-about/
-title: "About"
+title: "Why Research?"
 ---
-
-## Why Research?
 
 Research has always been my sandbox for exploration, where I continue to learn new theory and have the opportunity to explore it in a real life problem. The coolest part of my research is my interests are spread pretty far, but this is because I enjoy bringing state-of-the-art tools and techniques to solve problems in other fields. So what are my interests?
 
