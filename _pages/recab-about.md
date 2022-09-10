@@ -1,7 +1,6 @@
 ---
-permalink: /recab-about/
+permalink: /recap-about/
 title: "About"
-author_profile: true
 ---
 
 ## Why Research?
