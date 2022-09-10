@@ -1,5 +1,5 @@
 ---
-permalink: /about-me/
+permalink: /recab-about/
 title: "About"
 excerpt: "About"
 author_profile: true
