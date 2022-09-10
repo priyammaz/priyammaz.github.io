@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about-me/
 title: "About"
 excerpt: "About"
 author_profile: true
@@ -7,8 +7,6 @@ redirect_from:
   - /about-me/
   - /about-me.html
 ---
-
-Hello! My name is Priyam, and I am a Masters student in Statistics-Analytics at the University of Illinois at Urbana-Champaign. I earned my B.A. in Quantitative Methods with a concentration in Neuroscience from Emory University, where my focus was in Theoretical Statistics, Computational Neuroscience and Machine Learning.
 
 ## Why Research?
 
