@@ -1,11 +1,7 @@
 ---
 permalink: /recab-about/
-title: "About"
-excerpt: "About"
+title: "Software"
 author_profile: true
-redirect_from: 
-  - /about-me/
-  - /about-me.html
 ---
 
 ## Why Research?
